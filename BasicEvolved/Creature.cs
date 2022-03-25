@@ -11,9 +11,10 @@ namespace Evolution_Simulation
     class Creature : LiveObject
     {
         private Random r;
-        // 
+        // mutation power
         private double _genSpeed = 1;
-
+        
+        // how generations crreture is alive
         private int _oldCount = 0;
         public int OldCount { get => _oldCount; }
         
