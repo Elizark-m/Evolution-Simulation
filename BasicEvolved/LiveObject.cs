@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BasicEvolved
+namespace Evolution_Simulation
 {
     public class LiveObject
     {
