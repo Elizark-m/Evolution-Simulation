@@ -7,8 +7,8 @@
     <ProjectGuid>{65069EA2-6674-4F7D-BBBA-BBE370284465}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BasicEvolved</RootNamespace>
-    <AssemblyName>BasicEvolved</AssemblyName>
+    <RootNamespace>Evolution_Simulation</RootNamespace>
+    <AssemblyName>Evolution_Simulation</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
